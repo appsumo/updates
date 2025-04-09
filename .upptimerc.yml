@@ -7,18 +7,14 @@ sites:
     url: https://appsumo.com
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: light
   cname: updates.appsumo.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "r and status page, powered entirely by GitHub."
-  introMessage: test
+  logoUrl: https://appsumo2next-cdn.appsumo.com/_next/static/media/as-appsumo-logo-dark.fbc325ee.svg
+  favicon: https://example.com/favicon.png
+  faviconSvg: https://example.com/logo.svg
+  name: AppSumo Updates
+  introTitle: "AppSumo Updates"
+  introMessage: 
   navbar:
     - title: Status
       href: /
-
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
