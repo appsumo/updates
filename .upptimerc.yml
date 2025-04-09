@@ -12,8 +12,8 @@ status-website:
   logoUrl: https://appsumo2next-cdn.appsumo.com/_next/static/media/as-appsumo-logo-dark.fbc325ee.svg
   favicon: https://example.com/favicon.png
   faviconSvg: https://example.com/logo.svg
-  name: AppSumo Updates
-  introTitle: "AppSumo Updates"
+  name: Updates
+  introTitle: ""
   introMessage: 
   navbar:
     - title: Status
