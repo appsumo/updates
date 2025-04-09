@@ -18,3 +18,5 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: AppSumo
+      href: https://appsumo.com
