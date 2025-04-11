@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/appsumo.com.ico",
     "slug": "app-sumo",
     "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 249,
     "timeDay": 241,
     "timeWeek": 249,
     "timeMonth": 249,
     "timeYear": 249,
     "dailyMinutesDown": {
-      "2025-04-11": 11
+      "2025-04-11": 0
     }
   }
 ]
