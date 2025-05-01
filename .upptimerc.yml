@@ -8,11 +8,14 @@ status-website:
   theme: light
   cname: updates.appsumo.com
   logoUrl: https://appsumo2next-cdn.appsumo.com/_next/static/media/as-appsumo-logo-dark.fbc325ee.svg
-  favicon: https://example.com/favicon.png
-  faviconSvg: https://example.com/logo.svg
+  favicon: https://updates.appsumo.com/favicon.png
+  faviconSvg: https://updates.appsumo.com/logo.svg
   name: Updates
   introTitle: ""
   introMessage: 
+  links:
+    - rel: stylesheet
+      href: https://updates.appsumo.com/custom-styles.css
   navbar:
     - title: Status
       href: /
