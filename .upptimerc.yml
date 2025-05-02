@@ -7,7 +7,7 @@ sites: []
 status-website:
   theme: light
   cname: updates.appsumo.com
-  logoUrl: https://appsumo2next-cdn.appsumo.com/_next/static/media/as-appsumo-logo-dark.fbc325ee.svg
+  logoUrl: https://updates.appsumo.com/logo.svg
   favicon: https://updates.appsumo.com/favicon.png
   faviconSvg: https://updates.appsumo.com/logo.svg
   name: Updates
