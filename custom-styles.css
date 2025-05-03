@@ -2,3 +2,8 @@
   display: none !important;
 }
 
+.logo.svelte-a08hsz img.svelte-a08hsz {
+  margin-right: 1rem;
+  height: 1rem !important;
+  border-radius: 0.2rem;
+  }
