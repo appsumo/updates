@@ -1,4 +1,4 @@
-.f.svelte-fqsq6s .article.up {
+.f.svelte-fqsq6s {
   display: none !important;
 }
 
@@ -6,5 +6,8 @@
   margin-right: 1rem;
   height: 1rem !important;
   border-radius: 0.2rem;
-  }
+}
 
+.up {
+  display: none !important;
+}
